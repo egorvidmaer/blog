@@ -1,9 +1,9 @@
 ---
-title:  Блокчейн больше чем криптовалюты
-subtitle: Блокчейн больше чем криптовалюты
+title:  Blockchain is more than cryptocurrencies
+subtitle: Blockchain is more than cryptocurrencies
 
 # Summary for listings and search engines
-summary: Блокчейн больше чем криптовалюты
+summary: Blockchain is more than cryptocurrencies
 
 # Link this post with a project
 projects: []
@@ -30,22 +30,19 @@ categories:
   
 ---
 
-Блокчейн часто ассоциируется с криптовалютами, но эта технология имеет гораздо
-более широкий спектр применения.
+Blockchain is often associated with cryptocurrencies, but the technology has a much broader range of applications.
 
-Блокчейн – это распределенная база данных, которая обеспечивает безопасность,
-прозрачность и неизменность записи информации. Она используется в различных
-сферах, включая:
+Blockchain is a distributed database that provides secure, transparent, and immutable records of information. It is used in a variety of
 
-* Финансовые услуги: для более быстрых и дешевых переводов денег.
+areas, including:
 
-* Управление цепочками поставок: для отслеживания движения товаров и гарантии их происхождения.
+* Financial services: to transfer money faster and cheaper.
 
-* Здравоохранение: для безопасного хранения медицинских данных и контроля доступа к ним.
+* Supply chain management: to track the movement of goods and ensure their origin.
 
-* Государственное управление: для прозрачного и эффективного ведения реестров и документов.
+* Healthcare: to securely store medical data and control access to it.
 
-Блокчейн обещает революцию во многих отраслях и потенциально изменит способ
-нашего взаимодействия с информацией и системами.
+* Public administration: to transparently and efficiently maintain registries and documents.
 
+Blockchain promises to revolutionize many industries and has the potential to change the way we interact with information and systems.
 

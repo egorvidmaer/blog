@@ -1,13 +1,13 @@
 ---
 # Display name
-title: Видмаер Егор
+title: Vidmaer Egor
 
 # Name pronunciation (optional)
-name_pronunciation: Видмаер Егор
+name_pronunciation: Vidmaer Egor
 
 # Full name (for SEO)
-first_name: Егор
-last_name: Видмаер
+first_name: Egor
+last_name: Vidmaer
 
 # Status emoji
 status:
@@ -29,20 +29,20 @@ profiles:
     url: https://github.com/ervidmaer
 
 interests:
-  - Футбол
-  - Языки
-  - Программирование
+  - Football
+  - Languages
+  - Programming
 
 education:
-  - area: Бизнес-Информатика
-    institution: РУДН
+  - area: Business Informatics
+    institution: RUDN
     date_start: 2023-09-01
     date_end: 2027-06-25
 
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
 skills:
-  - name: Программирование
+  - name: Programming
     items:
       - name: C++
         description: ''
@@ -52,15 +52,15 @@ skills:
         description: ''
         percent: 10
         icon: chart-bar
-  - name: Увлечения
+  - name: Hobbies
     color: '#eeac02'
     color_border: '#f0bf23'
     items:
-      - name: Футбол
+      - name: Football
         description: ''
         percent: 90
         icon: beer-bottle
-      - name: Тренажерный зал
+      - name: Gym
         description: ''
         percent: 100
         icon: book
@@ -79,6 +79,4 @@ languages:
 
 ## About Me
 
-Меня зовут Видмаер Егор , мне 19 лет . Я студент института РУДН , учусь на втором
-курсе факультета физико-математических и естественных наук. До этого учился в
-московской школе . Занимаюсь спортом , играю в футбол , хожу в зал.
+My name is Vidmaer Egor, I am 19 years old. I am a student at the RUDN University, I am a second-year student at the Faculty of Physics, Mathematics and Natural Sciences. Before that, I studied at a Moscow school. I play sports, play football, and go to the gym.

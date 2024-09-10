@@ -1,9 +1,9 @@
 ---
-title: Пост по занятиям с 2 по 7 сентября
-subtitle: Пост по занятиям
+title: Post on classes 2-7 september
+subtitle: Post on classes
 
 # Summary for listings and search engines
-summary: Пост по занятиям
+summary: Post on classes
 
 # Link this post with a project
 projects: []
@@ -40,13 +40,12 @@ categories:
 
 ## Произошедшее на неделе
 
-На этой неделе я осваивал новые предметы которые появились на втором курсе.
-также на этой неделе я активно занимался спортом, ходил в зал , посещал
-физкультуру.
+This week I mastered new subjects that appeared in the second year.
+Also this week I was actively involved in sports, went to the gym, attended physical education.
 
-к концу рабочей недели , я посетил курсы английского и провел время с друзьями
+By the end of the work week, I attended English courses and spent time with friends
 
-на выходных занялся саморазвитием , дочитал книгу и готовил еду на ужин. 
+On the weekend I did self-development, finished reading a book and cooked food for dinner.
 
 
 

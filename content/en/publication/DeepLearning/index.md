@@ -1,10 +1,9 @@
 ---
-title: Глубокое обучение как оно работает
-subtitle: Глубокое обучение как оно работает
-
+title: Deep learning how it works
+subtitle: Deep learning how it works
 # Summary for listings and search engines
 
-summary: Глубокое обучение как оно работает
+summary: Deep learning how it works
 
 # Link this post with a project
 projects: []
@@ -31,17 +30,16 @@ categories:
   
 ---
 
-Глубокое обучение – один из самых популярных и быстро развивающихся разделов
-ИИ. Но как именно оно работает?
+Deep learning is one of the most popular and rapidly developing areas of
+AI. But how exactly does it work?
 
-Представьте себе многослойную нейронную сеть, схожую с человеческим мозгом.
-Каждая слой обрабатывает данные и извлекает из них определенную информацию.
-Например, первый слой может распознавать края и формы на изображении, второй –
-комбинировать эти формы в более сложные структуры и так далее.
+Imagine a multi-layered neural network, similar to the human brain.
+Each layer processes data and extracts specific information from it.
+For example, the first layer can recognize edges and shapes in an image, the second can
+combine these shapes into more complex structures, and so on.
 
-С помощью огромных наборов данных и мощных вычислительных систем сеть "учится"
-распознавать патерны, выявлять зависимости и делать предсказания.
+With the help of huge data sets and powerful computing systems, the network "learns"
+to recognize patterns, identify dependencies and make predictions.
 
-Глубокое обучение позволяет создавать систему распознавания речи, перевода
-языков, медицинской диагностики, самоуправляемых автомобилей и многих других
-технологий, которые меняют нашу жизнь.
+Deep learning allows you to create a system for speech recognition, language translation, medical diagnostics, self-driving cars and many other
+technologies that change our lives.

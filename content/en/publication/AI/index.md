@@ -1,9 +1,9 @@
 ---
-title: Искусственный интеллект не панацея, а инструмент
-subtitle: Искусственный интеллект не панацея, а инструмент
+title: Artificial intelligence is not a panacea, but a tool
+subtitle: Artificial intelligence is not a panacea, but a tool
 
 # Summary for listings and search engines
-summary: Искусственный интеллект не панацея, а инструмент
+summary: Artificial intelligence is not a panacea, but a tool
 
 # Link this post with a project
 projects: []
@@ -30,16 +30,9 @@ categories:
   
 ---
 
-Искусственный интеллект (ИИ) уже не просто модное слово, а реальность, которая
-меняет нашу жизнь. От умных помощников до медицинской диагностики – ИИ
-проникает во все сферы. Но важно понимать, что ИИ – не панацея. Это инструмент,
-мощный и многообещающий, но требующий осторожного и взвешенного подхода.
+Artificial intelligence (AI) is no longer just a buzzword, but a reality that is changing our lives. From smart assistants to medical diagnostics, AI is penetrating all areas. But it is important to understand that AI is not a panacea. It is a powerful and promising tool, but it requires a careful and balanced approach.
 
-Важно помнить, что ИИ – это "умный" алгоритм, обученный на данных. Качество
-данных и правильное создание модели определяют его эффективность. Недостаток
-данных, предвзятость в обучающей информации могут привести к неверным
-решениям, дискриминации и нежелательным последствиям.
+It is important to remember that AI is a "smart" algorithm trained on data. The quality of the data and the correct creation of the model determine its effectiveness. Lack of data, bias in training information can lead to incorrect decisions, discrimination and undesirable consequences.
 
-ИИ не заменит человека. Он будет помогать нам решать задачи, но контроль и
-ответственность остаются за нами.
+AI will not replace humans. It will help us solve problems, but control and responsibility remain with us.
 
