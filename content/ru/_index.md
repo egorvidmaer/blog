@@ -16,7 +16,7 @@ sections:
       text: ""
       # Show a call-to-action button under your biography? (optional)
       button:
-        text: Download CV
+        text: Скачать резюме
         url: uploads/resume.pdf
     design:
       css_class: dark
@@ -44,7 +44,7 @@ sections:
   - block: collection
     id: papers
     content:
-      title: Featured Publications
+      title: Публикации
       filters:
         folders:
           - publication
@@ -54,7 +54,7 @@ sections:
       columns: 2
   - block: collection
     content:
-      title: Recent Publications
+      title: Последние публикации
       text: ""
       filters:
         folders:
@@ -75,7 +75,7 @@ sections:
   - block: collection
     id: news
     content:
-      title: Recent News
+      title: Последние новости
       subtitle: ''
       text: ''
       # Page type to display. E.g. post, talk, publication...

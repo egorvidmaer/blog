@@ -39,7 +39,7 @@ education:
     date_start: 2023-09-01
     date_end: 2027-06-25
 
-# Skills
+# Навыки
 # Add your own SVG icons to `assets/media/icons/`
 skills:
   - name: Программирование
@@ -66,9 +66,9 @@ skills:
         icon: book
 
 languages:
-  - name: English
+  - name: Английский
     percent: 45
-  - name: Russian
+  - name: Русский
     percent: 100
 
 # Awards.
@@ -77,7 +77,7 @@ languages:
 #   Begin multi-line `summary` with YAML's `|` or `|2-` multi-line prefix and indent 2 spaces below.
 ---
 
-## About Me
+## Обо мне
 
 Меня зовут Видмаер Егор , мне 19 лет . Я студент института РУДН , учусь на втором
 курсе факультета физико-математических и естественных наук. До этого учился в
